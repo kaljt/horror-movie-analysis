@@ -5,6 +5,7 @@ A Python project using Pandas to explore 32,000+ horror films.
 - Filters out "noise" (movies with low vote counts).
 - Identifies the most profitable horror films in the dataset.
 - Exports a Top 10 list to a CSV file.
+![Top 10 Horror Revenue](horror_revenue_chart.png)
 
 ## Tech Used
 - **Python**
